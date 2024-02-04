@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "WeeklyCalendar",
     platforms: [
-        .iOS(.v16),
+        .iOS(.v15),
         .macOS("99.0"),
     ],
     products: [
